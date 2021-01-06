@@ -1,1 +1,1 @@
-[![Sergey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sskorol&count_private=true&show_icons=true&theme=react&custom_title=GitHub%20Profile%20Summary&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sskorol&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
