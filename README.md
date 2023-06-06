@@ -6,3 +6,20 @@
 </a>
 
 ##### <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">I want to add stats to my own GitHub profile</a>
+
+## Top Projects (IN PROGRESS)
+
+### Automation
+
+#### [test-data-supplier](https://github.com/sskorol/test-data-supplier)
+
+<div><video src="https://github.com/sskorol/sskorol/assets/6638780/8a11ad45-10a8-4e60-8d79-dbb723137762"/></div>
+
+### Robotics
+
+#### [robo-perception](https://github.com/WaverleySoftware/robo-perception)
+<div><video src="https://github.com/sskorol/sskorol/assets/6638780/a86c4278-6f1b-445e-8884-19074634db3c"/></div>
+
+#### [ros2-humble-docker-dev-template](https://github.com/sskorol/ros2-humble-docker-dev-template)
+
+<div><video src="https://github.com/sskorol/sskorol/assets/6638780/d07eac90-92b4-4c0c-9006-48925c4df26b"/></div>
