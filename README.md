@@ -7,13 +7,17 @@
 
 ##### <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">I want to add stats to my own GitHub profile</a>
 
-## Top Projects (IN PROGRESS)
+## Projects
 
 ### Automation
 
 #### [test-data-supplier](https://github.com/sskorol/test-data-supplier)
 
 <div><video src="https://github.com/sskorol/sskorol/assets/6638780/8a11ad45-10a8-4e60-8d79-dbb723137762"/></div>
+
+#### [aqa-playground]([https://github.com/sskorol/test-data-supplier](https://github.com/sskorol/aqa-playground))
+
+<video src="https://github.com/sskorol/aqa-playground/assets/6638780/887f3b92-4558-4ffe-a35b-127037bfb73a"></video>
 
 ### Robotics
 
