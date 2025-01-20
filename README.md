@@ -9,6 +9,12 @@
 
 ## Projects
 
+### Productivity
+
+### [AI Assistant](#)
+
+<div><video src="https://github.com/user-attachments/assets/e2a786be-93d8-4bfb-8a9e-26fa5056e0c9"/></div>
+
 ### Automation
 
 #### [test-data-supplier](https://github.com/sskorol/test-data-supplier)
