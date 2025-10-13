@@ -21,10 +21,6 @@
 
 <div><video src="https://github.com/sskorol/sskorol/assets/6638780/8a11ad45-10a8-4e60-8d79-dbb723137762"/></div>
 
-#### [aqa-playground](https://github.com/sskorol/aqa-playground)
-
-<video src="https://github.com/sskorol/aqa-playground/assets/6638780/887f3b92-4558-4ffe-a35b-127037bfb73a"></video>
-
 ### Robotics
 
 #### [robo-perception](https://github.com/WaverleySoftware/robo-perception)
